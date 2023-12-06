@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T19:05:06.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="I47YUUQTCGJtOKZ9dXCT" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T19:10:37.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="DRkOg0fkFXupRblpk8-O" version="22.1.7" type="github">
   <diagram name="Page-1" id="dSukQ-KBUVypzVUfsCuS">
     <mxGraphModel dx="2874" dy="1556" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,6 +21,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wk7HSr77j9lhnAIGQRqM-17" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="wk7HSr77j9lhnAIGQRqM-8">
+          <mxGeometry x="-0.6145" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wk7HSr77j9lhnAIGQRqM-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/clock.png;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-461" y="134" width="49" height="49" as="geometry" />
         </mxCell>
@@ -32,6 +37,19 @@
             <mxPoint x="-199" y="108" as="sourcePoint" />
             <mxPoint x="-149" y="58" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wk7HSr77j9lhnAIGQRqM-18" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="wk7HSr77j9lhnAIGQRqM-15">
+          <mxGeometry x="-0.1021" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wk7HSr77j9lhnAIGQRqM-19" value="Retransmitir mensaje a topico kafka (custom-ecommerce-meliflex-shipping) " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="wk7HSr77j9lhnAIGQRqM-15">
+          <mxGeometry x="0.2844" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wk7HSr77j9lhnAIGQRqM-16" value="{&quot;blueObject.status&quot;:&quot;OSERR&quot;}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="219" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
