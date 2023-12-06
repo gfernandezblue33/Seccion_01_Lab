@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T19:10:37.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="DRkOg0fkFXupRblpk8-O" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T19:15:42.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="TatQmBh0TRJA502aVj54" version="22.1.7" type="github">
   <diagram name="Page-1" id="dSukQ-KBUVypzVUfsCuS">
     <mxGraphModel dx="2874" dy="1556" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,6 +50,9 @@
         </mxCell>
         <mxCell id="wk7HSr77j9lhnAIGQRqM-16" value="{&quot;blueObject.status&quot;:&quot;OSERR&quot;}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="200" y="219" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wk7HSr77j9lhnAIGQRqM-20" value="OSERR: Orden de servicio no generada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="118" y="264" width="304" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
