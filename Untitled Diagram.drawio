@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T19:16:39.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="mkVmRgWlk1Zul-UjNZqC" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T19:21:10.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="LlqI6-lDXde8wkMEr8bB" version="22.1.7" type="github">
   <diagram id="bBTnM0Bof4FImpnx4-uH" name="Page-1">
-    <mxGraphModel dx="988" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="OU2u1vkTPK5hf4tIQWwU-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/UltimateGnome/128x128/status/gnome-fs-loading-icon.png;direction=south;" parent="1" vertex="1">
           <mxGeometry x="40" y="410" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OU2u1vkTPK5hf4tIQWwU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OU2u1vkTPK5hf4tIQWwU-4" target="OU2u1vkTPK5hf4tIQWwU-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OU2u1vkTPK5hf4tIQWwU-4" value="topíco" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="294" y="290" width="120" height="60" as="geometry" />
@@ -48,7 +45,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xOLhfUS5g9cSb4-Da-gZ-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Tracking Push&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="490" width="450" height="350" as="geometry" />
+          <mxGeometry x="9" y="490" width="450" height="350" as="geometry" />
         </mxCell>
         <mxCell id="xOLhfUS5g9cSb4-Da-gZ-15" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;bx-cnsr-aliexpress-tracking-push-dms&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="510" width="120" height="60" as="geometry" />
@@ -68,8 +65,32 @@
         <mxCell id="xOLhfUS5g9cSb4-Da-gZ-20" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;bx-cnsr-integrations-shopee-payload-push&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xOLhfUS5g9cSb4-Da-gZ-23" value="Diagrama solucion alto nivel Retransmitir mensaje kafka" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="xOLhfUS5g9cSb4-Da-gZ-23" value="Diagrama solución alto nivel Retransmitir mensaje kafka" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="228" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xOLhfUS5g9cSb4-Da-gZ-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OU2u1vkTPK5hf4tIQWwU-4" target="OU2u1vkTPK5hf4tIQWwU-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="330" as="sourcePoint" />
+            <mxPoint x="250" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xOLhfUS5g9cSb4-Da-gZ-26" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="260" as="sourcePoint" />
+            <mxPoint x="490" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xOLhfUS5g9cSb4-Da-gZ-27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="260" as="sourcePoint" />
+            <mxPoint x="490" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xOLhfUS5g9cSb4-Da-gZ-28" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.039;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xOLhfUS5g9cSb4-Da-gZ-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="490" as="sourcePoint" />
+            <mxPoint x="30" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
